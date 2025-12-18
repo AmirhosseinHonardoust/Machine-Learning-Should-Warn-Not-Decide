@@ -9,7 +9,7 @@
 </p>
 
 **Why Decision-Centric AI Is Structurally Misaligned With Reality**
-
+ 
 ---
 
 ## Introduction: The Dangerous Comfort of Automated Decisions
